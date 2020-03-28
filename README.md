@@ -1,2 +1,2 @@
 # be-the-hero
-Application developed during the week OminiStack 11.0
+Application developed during the week OmniStack 11.0
